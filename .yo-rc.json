@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Turning spatial inside out",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "attentive",
+    "githubRepository": "georabble-feb-2017"
+  }
+}
