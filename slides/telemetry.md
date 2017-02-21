@@ -1,4 +1,4 @@
-### GIS follows the curve
+### Telemetry
 
 GIS follows mainstream trends
 
