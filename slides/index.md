@@ -1,2 +1,3 @@
 
-# Turning spatial inside out
+# Coming soon to a spatial system near you … 
+
