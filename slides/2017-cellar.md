@@ -1,6 +1,7 @@
-## applications 2017 
+## Applications 2017 
 
-* "slow data" analytics
-* "fast data" analytics
+* "offline" analytics / Big Data / machine learning / data mining
+ * remote sensing and classification applications
+* **Real-time analytics**
  * value added products for situational awareness, logistics, optimisation
 

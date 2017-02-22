@@ -1,11 +1,9 @@
-### "Fast data" applications: stream processing and routing
+### Real-time stream processing 
 
-* stream processors can get at ingested events in real-time without an intermediate persistence step
- * faster than a database - database-reindex - query round-trip
- * more scalable
-
-* Platform services already exist
- * [Amazon Kinesis](https://aws.amazon.com/kinesis/) 
- * [Microsoft Azure Event Hubs](https://azure.microsoft.com/en-au/services/event-hubs/)
-
+* Database-like environment
+ * **Stream** concept replaces **table** concept
+* Stream processors access ingested events in real-time without intermediate disk operations
+ * Performs much better than a database - database-reindex - query round-trip
+ * Only current stream data is available to process 
+ * *Windowed* operations: moving averages, counts, aggregates, thinning and filtering
 
