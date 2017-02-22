@@ -290,7 +290,7 @@ body {
   text-transform: none; }
 
 body:after {
-  content: url(/resources/amristar.png);
+  content: url(../resources/amristar.png);
   position: fixed;
   bottom: 3.5em;
   left: 3.5em; }
